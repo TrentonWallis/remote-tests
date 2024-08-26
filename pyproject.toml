@@ -1,5 +1,5 @@
 [project]
-name = "trenton-testing"
+name = "trenton_testing"
 version = "0.1.0"
 description = "My testing framework"
 
